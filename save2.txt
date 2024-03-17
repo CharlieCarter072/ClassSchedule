@@ -1,0 +1,8 @@
+AP_go_po 1
+Chemistry 34
+AP_lang 1234
+Game_Dev 8
+Advanced_Prgm 67
+Seminary 12345678
+Sec_three 12345678
+Lifetime/Sculpture 6

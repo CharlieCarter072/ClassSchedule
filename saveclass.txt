@@ -1,0 +1,41 @@
+Senor year:
+
+-----
+#APCalc 23
+#APPhysics 6
+#Seminary 12345678
+#AdvProg 1
+APStats 67
+APLit 56
+SCG 4
+Release 12345678
+-----
+
+
+APCalc 23
+APPhysics 6
+Seminary 12345678
+AdvProg 1
+APStats 67
+
+
+Math:
+
+APCalc(AB) 124568
+
+English:
+
+APLit 56
+EnglishTwelve 124
+
+Other:
+
+APUSH 5
+
+half credit:
+
+SculptureTwo(SS) 4
+Culinary 124
+Guitar(Four-FS) 34
+Baking 5
+Hist-Rock&roll 2456

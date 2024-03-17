@@ -1,0 +1,8 @@
+#APCalc 23
+#APPhysics 6
+#Seminary 12345678
+#AdvProg 1
+APStats 67
+APLit 56
+SCG 4
+Release 1458
